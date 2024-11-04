@@ -34,7 +34,7 @@ We make the jar accesible to the next job
 We then build and push the docker image
 
 ## Link to DockerHub Repository
-[https://hub.docker.com/r/hmcintosh1472/mcintosh-wopro-service/tags](place link here)
+[https://hub.docker.com/r/hmcintosh1472/mcintosh-wopro-service/tags]
 
 ## Link to GitHub Actions Run Results Summary
 [Link to **working** workflow run results]https://github.com/WSU-kduncan/devops-assignment-2-3-hmcintos/actions/runs/11655812409
