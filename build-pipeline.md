@@ -2,23 +2,35 @@
 
 ## Description of Workflow
 A commit gets pushed to the repo
+
               |
               V
+              
 Then set up java and the correct OS 
+
               |
               V
+              
 Then we execute the gradle build
+
               |
               V
+              
 Then we copy the jarfile and change its name to app.jar
+
               |
               V
+              
 we copy all .jar files except for pkain in the name to the directory
+
               |
               V
+              
 We make the jar accesible to the next job 
+
               |
               V
+              
 We then build and push the docker image
 
 ## Link to DockerHub Repository
